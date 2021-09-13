@@ -1,4 +1,4 @@
-# Family Finance
+# iSaver
 
 [![Build Status](https://travis-ci.org/farminf/FamilyFinance.svg?branch=master)](https://travis-ci.org/farminf/FamilyFinance)
 
@@ -6,9 +6,9 @@
 
 _Bootstrapped by [create-react-app](https://github.com/facebook/create-react-app)_
 
-[FamilyFinance Webapp](http://familyfinance.xyz)
+[iSaver webapp](http://familyfinance.xyz)
 
-FamilyFinance is an open source personal finance management webapp made with Firebase and React.
+iSaver is an open source personal finance management webapp made with Firebase and React.
 
 ![alt text](https://github.com/farminf/FamilyFinance/blob/dev/screenshots.png?raw=true "Family Finance")
 
@@ -27,7 +27,7 @@ messagingSenderId:process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID
 
 ## Live Demo
 
-In the [FamilyFinance](http://familyfinance.xyz) you can find the demo session.
+In the [iSaver](http://iSaver.web.app) you can find the demo session.
 
 ## Run for Development
 
