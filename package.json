@@ -1,15 +1,15 @@
 {
-  "name": "familyfinance-webapp",
+  "name": "iSaver",
   "version": "0.1.0",
   "author": {
-    "name": "FarminF",
-    "email": "farmin.f@gmail.com"
+    "name": "abibars",
+    "email": "ahmed2bibars.app"
   },
   "main": "public/electron.js",
   "repository": {
-    "url": "http://github.com/farminf/FamilyFinance"
+    "url": "http://github.com/abibars/iSaver"
   },
-  "homepage": "https://familyfinance-webapp.herokuapp.com/",
+  "homepage": "https://iSaver.webapp/",
   "dependencies": {
     "@material-ui/core": "^1.2.2",
     "@material-ui/icons": "^1.1.0",

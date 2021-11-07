@@ -1,20 +1,20 @@
 # iSaver
 
-[![Build Status](https://travis-ci.org/farminf/FamilyFinance.svg?branch=master)](https://travis-ci.org/farminf/FamilyFinance)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/farminf/FamilyFinance/)
 
 _Bootstrapped by [create-react-app](https://github.com/facebook/create-react-app)_
 
-[iSaver webapp](http://familyfinance.xyz)
+[iSaver webapp](http://isaver.web.app)
 
 iSaver is an open source personal finance management webapp made with Firebase and React.
 
-![alt text](https://github.com/farminf/FamilyFinance/blob/dev/screenshots.png?raw=true "Family Finance")
+![alt text](https://github.com/abibars/iSaver/blob/dev/screenshots.png?raw=true "iSaver")
+
 
 ## Your Installation
 
-You can use FamilyFinance on your premises/host with your firebase account easiliy. You need to just add your firebase config to your environment variables as
+You can use iSaver on your premises/host with your firebase account easiliy. You need to just add your firebase config to your environment variables as
 
 ```
 apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
